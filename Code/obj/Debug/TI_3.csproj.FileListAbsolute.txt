@@ -1,0 +1,10 @@
+D:\Dokuments\Desctop\Бгуир\TI-3\Code\bin\Debug\TI_3.exe.config
+D:\Dokuments\Desctop\Бгуир\TI-3\Code\bin\Debug\TI_3.exe
+D:\Dokuments\Desctop\Бгуир\TI-3\Code\bin\Debug\TI_3.pdb
+D:\Dokuments\Desctop\Бгуир\TI-3\Code\obj\Debug\TI_3.csproj.AssemblyReference.cache
+D:\Dokuments\Desctop\Бгуир\TI-3\Code\obj\Debug\TI_3.MainForm.resources
+D:\Dokuments\Desctop\Бгуир\TI-3\Code\obj\Debug\TI_3.Properties.Resources.resources
+D:\Dokuments\Desctop\Бгуир\TI-3\Code\obj\Debug\TI_3.csproj.GenerateResource.cache
+D:\Dokuments\Desctop\Бгуир\TI-3\Code\obj\Debug\TI_3.csproj.CoreCompileInputs.cache
+D:\Dokuments\Desctop\Бгуир\TI-3\Code\obj\Debug\TI_3.exe
+D:\Dokuments\Desctop\Бгуир\TI-3\Code\obj\Debug\TI_3.pdb
