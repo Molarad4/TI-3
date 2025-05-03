@@ -80,7 +80,7 @@
             // 
             this.TextBoxP.Location = new System.Drawing.Point(54, 23);
             this.TextBoxP.Name = "TextBoxP";
-            this.TextBoxP.Size = new System.Drawing.Size(222, 23);
+            this.TextBoxP.Size = new System.Drawing.Size(222, 39);
             this.TextBoxP.TabIndex = 2;
             this.TextBoxP.TextChanged += new System.EventHandler(this.ClearStrip_Click);
             // 
@@ -88,7 +88,7 @@
             // 
             this.TextBoxQ.Location = new System.Drawing.Point(54, 56);
             this.TextBoxQ.Name = "TextBoxQ";
-            this.TextBoxQ.Size = new System.Drawing.Size(222, 23);
+            this.TextBoxQ.Size = new System.Drawing.Size(222, 39);
             this.TextBoxQ.TabIndex = 4;
             this.TextBoxQ.TextChanged += new System.EventHandler(this.ClearStrip_Click);
             // 
@@ -139,7 +139,7 @@
             // 
             this.TextBoxD.Location = new System.Drawing.Point(27, 186);
             this.TextBoxD.Name = "TextBoxD";
-            this.TextBoxD.Size = new System.Drawing.Size(249, 23);
+            this.TextBoxD.Size = new System.Drawing.Size(249, 39);
             this.TextBoxD.TabIndex = 9;
             this.TextBoxD.TextChanged += new System.EventHandler(this.ClearStrip_Click);
             // 
@@ -306,7 +306,7 @@
             // 
             // MainForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(15F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(795, 665);
@@ -343,11 +343,10 @@
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "ТИ ЛР3 Пуренок 351004";
+            this.Text = "ТИ ЛР3 Гасюк 351004";
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
-
         }
 
         private System.Windows.Forms.OpenFileDialog OpenFileDialog;
